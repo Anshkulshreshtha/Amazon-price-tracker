@@ -5,8 +5,8 @@ import requests
 import smtplib
 from bs4 import BeautifulSoup
 
-my_email = "anshkul03@gmail.com"
-my_password = "my2google@123"
+my_email = "--------------@gmail.com"
+my_password = "**************"
 
 url = "https://www.amazon.in/SanDisk-Ultra-064G-I35-SDCZ48-Drive/dp/B00KYK2ABI/ref=sr_1_7?keywords=pendrive&" \
       "qid=1657825177&refinements=p_n_size_browse-bin%3A1464338031&rnid=1464332031&s=computers&sr=1-7 "
